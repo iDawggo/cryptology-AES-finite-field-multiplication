@@ -1,0 +1,15 @@
+C:\Users\alexridolfi\source\repos\Lesson 26\Lesson 26\bin\Debug\Lesson 26.exe.config
+C:\Users\alexridolfi\source\repos\Lesson 26\Lesson 26\bin\Debug\Lesson 26.exe
+C:\Users\alexridolfi\source\repos\Lesson 26\Lesson 26\bin\Debug\Lesson 26.pdb
+C:\Users\alexridolfi\source\repos\Lesson 26\Lesson 26\obj\Debug\Lesson 26.csprojAssemblyReference.cache
+C:\Users\alexridolfi\source\repos\Lesson 26\Lesson 26\obj\Debug\MainWindow.g.cs
+C:\Users\alexridolfi\source\repos\Lesson 26\Lesson 26\obj\Debug\App.g.cs
+C:\Users\alexridolfi\source\repos\Lesson 26\Lesson 26\obj\Debug\Lesson 26_MarkupCompile.cache
+C:\Users\alexridolfi\source\repos\Lesson 26\Lesson 26\obj\Debug\Lesson 26_MarkupCompile.lref
+C:\Users\alexridolfi\source\repos\Lesson 26\Lesson 26\obj\Debug\MainWindow.baml
+C:\Users\alexridolfi\source\repos\Lesson 26\Lesson 26\obj\Debug\Lesson 26.g.resources
+C:\Users\alexridolfi\source\repos\Lesson 26\Lesson 26\obj\Debug\Lesson_26.Properties.Resources.resources
+C:\Users\alexridolfi\source\repos\Lesson 26\Lesson 26\obj\Debug\Lesson 26.csproj.GenerateResource.cache
+C:\Users\alexridolfi\source\repos\Lesson 26\Lesson 26\obj\Debug\Lesson 26.csproj.CoreCompileInputs.cache
+C:\Users\alexridolfi\source\repos\Lesson 26\Lesson 26\obj\Debug\Lesson 26.exe
+C:\Users\alexridolfi\source\repos\Lesson 26\Lesson 26\obj\Debug\Lesson 26.pdb
